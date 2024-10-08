@@ -18,7 +18,7 @@ The tarballs for `Libxc_GPU_jll.jl` have been built from these sources:
 
 `Libxc_GPU_jll.jl` is available for the following platforms:
 
-* `Linux aarch64 {cuda=12.5, cuda_platform=sbsa, libc=glibc}` (`aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5`)
+* `Linux aarch64 {cuda=12.6, cuda_platform=sbsa, libc=glibc}` (`aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.6`)
 
 ## Dependencies
 
