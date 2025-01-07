@@ -1,0 +1,12 @@
+[[Libxc_GPU]]
+arch = "aarch64"
+cuda = "12.4"
+cuda_platform = "sbsa"
+git-tree-sha1 = "a216a3f40209e552fd873a9447145e2e6a8b81eb"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[Libxc_GPU.download]]
+    sha256 = "6c5d7d9e6d45b45576861204d126e8eb9b5301281d5bc4138d898ac5a3f57ef7"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.4.tar.gz"
