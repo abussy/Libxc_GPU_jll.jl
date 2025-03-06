@@ -8,7 +8,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "da05d49b2873453db09f66d30ad35e1dbf6163063b7fb2ebf09006c5732b6aaf"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+11.8.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+11.8.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.0"
@@ -19,7 +19,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "19e4b688d40e8601de749d76e45ab23992d605a988e3dd5eb8bd94f8f3589921"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.0"
@@ -31,7 +31,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "8dc10d6cd032863a05088891e6b38ed305b0640904bad66d440291850c1704ce"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.1"
@@ -42,7 +42,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "22c1fb62eca41a2ae2dccf2ca94bc33aba7a91e2c749457bd5b3205777c0b75c"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.1.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.1.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.1"
@@ -54,7 +54,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "9841807628b8cf009d8e8cf9088c65d01ff42534698cfc0fd4386f2e56772512"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.1.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.1.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.2"
@@ -65,7 +65,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "be3083e0b8dabf65c68947c301b34640d19a2a31aca32c2a3d64c9d24a1f2263"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.2.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.2.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.2"
@@ -77,7 +77,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "e5d13ef1a03132cf288240a01b32ae194bde305c90784e810d0429e87e41383e"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.2.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.2.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.3"
@@ -88,7 +88,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "424ba62f8c2af3352c26c2874c52bc207b13781c9235e0716b845c1ba8924eb7"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.3.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.3.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.3"
@@ -100,7 +100,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "4eb137d602e1efa1bf5c4ca931d97d184ae08c6a5f0a6ba16561c5ff2d342c7d"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.3.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.3.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.4"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "06f64dd8131aa9046b1904392a6acafd24cba11970fefead33644e3568f76fea"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.4.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.4.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.4"
@@ -123,7 +123,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "ad943b1b254c5574e345a41ba609d5630bd053c2081f2e1210a41160e170a899"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.4.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.4.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.5"
@@ -134,7 +134,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "6f104a15d10855dc56cbc99d689baa54ef341a462a30d8ff6b6279c38b0f1146"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.5.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.5.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.5"
@@ -146,7 +146,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "02b39c7c0a3e9cfb80e6636da9d840f54d88571855e07c07831e6e2ba7d54d95"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.6"
@@ -157,7 +157,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "e85841b48d13cb26f629ea10765b88e9e95faaac77fe4c20778d466f6c1509d5"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.6.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.6.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.6"
@@ -169,7 +169,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "13306e0fa779a5e2ac60663d588e7ee767b336d087e5ce0174dcfd6e9a203346"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.6.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.6.tar.gz"
 [[Libxc_GPU]]
 arch = "x86_64"
 cuda = "12.8"
@@ -180,7 +180,7 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "2eea9e8c40666524c26e1faf798fbdf6ca75147acef2228c298b011c86bed61e"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.8.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.8.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.8"
@@ -192,4 +192,4 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "85e7837f1007552752752385a4be84658842ba8c91bd04d4a74643ceca9bdc8f"
-    url = "https://github.com/local/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.8.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.8.tar.gz"
