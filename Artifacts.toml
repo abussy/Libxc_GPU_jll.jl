@@ -1,35 +1,24 @@
 [[Libxc_GPU]]
-arch = "x86_64"
-cuda = "12.5"
-git-tree-sha1 = "8c6788605f0d0d5ebe452f7d9610ca87b0682b37"
-lazy = true
-libc = "glibc"
-os = "linux"
-
-    [[Libxc_GPU.download]]
-    sha256 = "c10fddd193542ba980229b07880b18d6ac4e966e8188c7f48e43de35382e1431"
-    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.x86_64-linux-gnu-cuda+12.5.tar.gz"
-[[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.5"
 cuda_platform = "jetson"
-git-tree-sha1 = "4c2b3cfaeac18c6c0def8f47b58c489a90d914ac"
+git-tree-sha1 = "fa6f6a6cc5a27c907dadab421756946ef543b88c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[Libxc_GPU.download]]
-    sha256 = "c023f550399ab1f4cc766f726d30e89a55a44d0a29478a970981bf26bc4c1caa"
+    sha256 = "36d6fc62e1b949db99156077963683e50d3e724c2e5de0e2f6da317b38aff642"
     url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.5.tar.gz"
 [[Libxc_GPU]]
 arch = "aarch64"
 cuda = "12.5"
 cuda_platform = "sbsa"
-git-tree-sha1 = "a12165acb2ca8cc8c99b258552796f88738a2992"
+git-tree-sha1 = "9d2550010881a5284794832b8c26ac3a54051235"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[Libxc_GPU.download]]
-    sha256 = "e2a7905c4eee62453fa3db30370b23f2d80a423c979f178a20458ba1f5285e20"
+    sha256 = "97f152a56df13b471bc56fd182947d06cfc164b495a2f03f730ba79ea062106e"
     url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5.tar.gz"
