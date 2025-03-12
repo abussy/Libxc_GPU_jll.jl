@@ -9,4 +9,4 @@ os = "linux"
 
     [[Libxc_GPU.download]]
     sha256 = "8144b12e5a8d3d74ef6c97bca79cca807931e4bb08f209d683313d926533793b"
-    url = "https://github.com/abussy/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5.tar.gz"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+0/Libxc_GPU.v7.0.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.5.tar.gz"
