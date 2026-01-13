@@ -11,12 +11,14 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `Libxc_GPU_jll.jl` have been built from these sources:
 
 * compressed archive: https://gitlab.com/libxc/libxc/-/archive/7.0.0/libxc-7.0.0.tar.gz (SHA256 checksum: `8d4e343041c9cd869833822f57744872076ae709a613c118d70605539fb13a77`)
+* compressed archive: https://developer.download.nvidia.com/compute/cuda/redist/cuda_nvcc/linux-x86_64/cuda_nvcc-linux-x86_64-13.0.48-archive.tar.xz (SHA256 checksum: `cc5ff4a00d3be7c6c86ff740de7672e142ec87fea74e7e46b1b142b59fd2ac51`)
+* compressed archive: https://developer.download.nvidia.com/compute/cuda/redist/libnvvm/linux-x86_64/libnvvm-linux-x86_64-13.0.48-archive.tar.xz (SHA256 checksum: `8c5676a65a2e6d13e3c229f025af18677de46c220d77992fe932200fa798b19b`)
 
 ## Platforms
 
 `Libxc_GPU_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=13.0, libc=glibc, libgfortran_version=5.0.0}` (`x86_64-linux-gnu-libgfortran5-cuda+13.0`)
+* `Linux aarch64 {cuda=13.0, cuda_platform=sbsa, libc=glibc, libgfortran_version=5.0.0}` (`aarch64-linux-gnu-libgfortran5-cuda_platform+sbsa-cuda+13.0`)
 
 ## Dependencies
 
