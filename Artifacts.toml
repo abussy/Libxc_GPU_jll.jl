@@ -1,0 +1,12 @@
+[[Libxc_GPU]]
+arch = "aarch64"
+cuda = "13.4"
+git-tree-sha1 = "e5f78d0b428bab631902689af38e7b3abf9100b0"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Libxc_GPU.download]]
+    sha256 = "3419ea4ec3e31335592067f4f4ec6563ae9ab2b8be80a6224b9dd526666f21ef"
+    url = "https://github.com/abussy/Libxc_GPU_jll.jl/releases/download/Libxc_GPU-v7.0.0+5/Libxc_GPU.v7.0.0.aarch64-linux-gnu-libgfortran5-cuda+13.4.tar.gz"
